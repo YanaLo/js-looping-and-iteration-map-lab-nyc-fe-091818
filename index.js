@@ -12,3 +12,7 @@ function nameToAttributes(array){
   return {firstName:firstDriver, lastName:lastDriver}
 })
 }
+
+function attributesToPhrase(object){
+  
+}
